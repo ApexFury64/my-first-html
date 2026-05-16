@@ -7,6 +7,7 @@
 3. Enter project name: `SkillSync` (or your preferred name)
 4. Enable Google Analytics (optional)
 5. Click "Create project"
+6. GG Boys
 
 ## Step 2: Add Android App
 
